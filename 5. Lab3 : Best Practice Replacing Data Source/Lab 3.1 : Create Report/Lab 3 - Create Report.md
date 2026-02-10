@@ -20,7 +20,7 @@ Before starting this lab, ensure you have:
 
 The Data Module serves as a **container for data sources** that will be used in your reports.
 
-## Step 0. Below is the data source in csv for you to download.
+## Step 0. Below is the data source in xlsx for you to download.
 
 1. [Main_data_sources.xlsx](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/Assets/Data%20Source/Sample%20Data/Main%20Data%20Sources/Main_Data_Sources.xlsx)
 
@@ -315,10 +315,9 @@ Congratulations! You have completed Lab 3 - Create Report:
 
 | Step | Lab                                                                                                                                             | Description                                 |
 | :--: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
-|  ✅  | [1. Existing Report Check](../Lab%201%20-%20Existing%20Report%20Check/Lab%201%20-%20%20Existing%20Report%20Check.md)                            | Existing report verification completed      |
-|  ✅  | [2. Cognos for MS Office Setup](../Lab%202%20-%20Cognos%20for%20Microsoft%20Office%20Setup/Lab%202%20-%20Cognos%20for%20MS%20Office%20Setup.md) | Cognos for Microsoft Office setup completed |
-|  ✅  | **3. Create Report**                                                                                                                            | You are here - Report creation completed    |
-|  ➡️  | [4. Update Existing Data Report](../Lab%204%20-%20Update%20Existing%20Data%20Report/Lab%204%20-%20Update%20Existing%20Data%20Report.md)         | Fetch and append data to Excel              |
+|  ✅  | [1. Cognos for MS Office Setup](../Lab%202%20-%20Cognos%20for%20Microsoft%20Office%20Setup/Lab%202%20-%20Cognos%20for%20MS%20Office%20Setup.md) | Cognos for Microsoft Office setup completed |
+|  ✅  | **2. Create Report**                                                                                                                            | You are here - Report creation completed    |
+|  ➡️  | [3. Update Existing Data Report](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/5.%20Lab3%20%3A%20Best%20Practice%20Replacing%20Data%20Source/Lab%203.2%20%3A%20Update%20Existing%20Data%20Report/Lab%204%20-%20Update%20Existing%20Data%20Report.md)         | Fetch and append data to Excel              |
 
 ---
 
