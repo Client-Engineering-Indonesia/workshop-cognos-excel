@@ -22,7 +22,7 @@ The Data Module serves as a **container for data sources** that will be used in 
 
 ## Step 0. Below is the data source in csv for you to download.
 
-1. [Mortgage with rates data](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/Assets/Data%20Source/Sample%20Data/Main%20Data%20Sources/Main_Data_Sources.xlsx)
+1. [Main_data_sources.xlsx](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/Assets/Data%20Source/Sample%20Data/Main%20Data%20Sources/Main_Data_Sources.xlsx)
 
 
 ## Step 1.1: Create New Data Module
