@@ -6,30 +6,6 @@ This lab will guide you through the process of **updating existing data reports*
 
 ---
 
-## Prerequisites
-
-Before starting this lab, ensure you have:
-
-- Completed [Lab 1 - Existing Report Check](../Lab%201%20-%20Existing%20Report%20Check/Lab%201%20-%20%20Existing%20Report%20Check.md)
-- Completed [Lab 2 - Cognos for MS Office Setup](../Lab%202%20-%20Cognos%20for%20Microsoft%20Office%20Setup/Lab%202%20-%20Cognos%20for%20MS%20Office%20Setup.md)
-- Completed [Lab 3 - Create Report](../Lab%203%20-%20Create%20Report/Lab%203%20-%20Create%20Report.md) (or have existing reports)
-- Microsoft Excel with Cognos for Microsoft Office add-in installed and connected
-- Access to your Cognos Analytics projects (Data Module, Main Report, Data Source Report)
-
----
-
-## Initial Validation
-
-Before starting, verify that you have all 3 required projects available.
-
-![Verify 3 Projects](Assets/0.1-verify-3-projects.png)
-
-Also, validate that current data is only available for **January** (before update).
-
-![Validate January Data](Assets/0.2-validate-january-data.png)
-
----
-
 # Part 1: Import and Append Data in Excel
 
 ## Step 1.1: Open Report Data Sources Project
