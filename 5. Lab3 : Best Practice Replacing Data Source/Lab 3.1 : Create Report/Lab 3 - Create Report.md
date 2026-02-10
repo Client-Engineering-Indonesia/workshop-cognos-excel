@@ -20,6 +20,11 @@ Before starting this lab, ensure you have:
 
 The Data Module serves as a **container for data sources** that will be used in your reports.
 
+## Step 0. Below is the data source in csv for you to download.
+
+1. [Mortgage with rates data](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/Assets/Data%20Source/Sample%20Data/Main%20Data%20Sources/Main_Data_Sources.xlsx)
+
+
 ## Step 1.1: Create New Data Module
 
 Click the **Hamburger menu** (☰), then click **New** and select **Data module**.
