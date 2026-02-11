@@ -304,7 +304,7 @@ You've successfully created a Report in IBM Cognos Analytics.
 
 > 💡 Next Steps:
 >
-> - #### [Continue to Lab 4.2 - Update Existing Data Report](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/6.%20Lab4%20-%20Best%20Practice%20Replacing%20Data%20Source/Lab4.2%20-%20Update%20Existing%20Data%20Report/Lab%204%20-%20Update%20Existing%20Data%20Report.md)
+> - #### [Continue to Lab 4.2 - Update Existing Data Report](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/6.%20Lab4%20-%20Best%20Practice%20Replacing%20Data%20Source/Lab4.2%20-%20Update%20Existing%20Data%20Report/Lab%204.2%20-%20Update%20Existing%20Data%20Report.md)
 
 ---
 
