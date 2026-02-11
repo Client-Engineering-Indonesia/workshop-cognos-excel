@@ -190,7 +190,7 @@ You've successfully setup Cognos for Microsoft Office in IBM Cognos Analytics.
 
 > 💡 Next Steps:
 >
-> - #### [Continue to Lab 4 - Create Report](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/tree/main/6.%20Lab4%20-%20Best%20Practice%20Replacing%20Data%20Source/Lab4.1%20-%20Create%20Report)
+> - #### [Continue to Lab 4 - Create Report](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/6.%20Lab4%20-%20Best%20Practice%20Replacing%20Data%20Source/Lab4.1%20-%20Create%20Report/Lab%204.1%20-%20Create%20Report.md)
 
 ---
 
