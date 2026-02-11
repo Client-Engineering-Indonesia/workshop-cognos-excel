@@ -1,18 +1,8 @@
-# Lab 3 - Create Report
+# Lab 4.1 - Create Report
 
 ## Overview
 
 This lab will guide you through creating reports in IBM Cognos Analytics. You will learn how to create a **Data Module** as a data source, build a **Main Report** with filters and crosstab visualization, and optionally create a **Data Source Report** for fetching data to Excel.
-
----
-
-## Prerequisites
-
-Before starting this lab, ensure you have:
-
-- Access to IBM Cognos Analytics
-- Data files ready for upload (Excel/CSV)
-- Basic understanding of report structure
 
 ---
 
@@ -23,7 +13,6 @@ The Data Module serves as a **container for data sources** that will be used in 
 ## Step 0. Below is the data source in xlsx for you to download.
 
 1. [Main_data_sources.xlsx](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/Assets/Data%20Source/Sample%20Data/Main%20Data%20Sources/Main_Data_Sources.xlsx)
-
 
 ## Step 1.1: Create New Data Module
 
@@ -309,22 +298,18 @@ You now have all the necessary components for the Cognos and Microsoft Office in
 
 ---
 
-## Next Steps
+## 🎉 You're Done!
 
-Congratulations! You have completed Lab 3 - Create Report:
+You've successfully created a Report in IBM Cognos Analytics.
 
-| Step | Lab                                                                                                                                             | Description                                 |
-| :--: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
-|  ✅  | [1. Cognos for MS Office Setup](../Lab%202%20-%20Cognos%20for%20Microsoft%20Office%20Setup/Lab%202%20-%20Cognos%20for%20MS%20Office%20Setup.md) | Cognos for Microsoft Office setup completed |
-|  ✅  | **2. Create Report**                                                                                                                            | You are here - Report creation completed    |
-|  ➡️  | [3. Update Existing Data Report](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/5.%20Lab3%20%3A%20Best%20Practice%20Replacing%20Data%20Source/Lab%203.2%20%3A%20Update%20Existing%20Data%20Report/Lab%204%20-%20Update%20Existing%20Data%20Report.md)         | Fetch and append data to Excel              |
+> 💡 Next Steps:
+>
+> - #### [Continue to Lab 4.2 - Update Existing Data Report](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/6.%20Lab4%20-%20Best%20Practice%20Replacing%20Data%20Source/Lab4.2%20-%20Update%20Existing%20Data%20Report/Lab%204%20-%20Update%20Existing%20Data%20Report.md)
 
 ---
 
-## Documentation Info
-
-**Instructor:** IBM Client Engineering Lab Guide  
-**Platform:** IBM Cognos Analytics on Cloud  
-**Database:** IBM DB2 on Cloud  
-**Tools:** Microsoft Excel, Cognos for Microsoft Office Add-in  
-**Objective:** Create Data Module, Main Report, and Data Source Report in IBM Cognos Analytics
+**Author:** IBM Client Engineering Lab Guide  
+**Tool:** IBM Cognos Analytics  
+**Tutorial Type:** Create Report
+**Version:** v1.0  
+**Date:** November 2025

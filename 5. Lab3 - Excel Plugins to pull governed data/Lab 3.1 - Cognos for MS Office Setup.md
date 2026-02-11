@@ -1,4 +1,4 @@
-# Lab 2 - Cognos for Microsoft Office Setup
+# Lab 3 - Cognos for Microsoft Office Setup
 
 ## Overview
 
@@ -10,7 +10,6 @@ This lab will guide you through the installation of **Cognos for Microsoft Offic
 
 Before starting this lab, ensure you have:
 
-- Completed [Lab 1 - Existing Report Check](../Lab%201%20-%20Existing%20Report%20Check/Lab%201%20-%20%20Existing%20Report%20Check.md)
 - **Cognos for Microsoft Office installer** - [coc_winx64h_11.0.1.11_ml.tar.gz](../coc_winx64h_11.0.1.11_ml.tar.gz) (available in the project root folder)
 - Microsoft Excel installed on your computer
 - IBM Cognos Analytics account credentials
@@ -185,18 +184,21 @@ You are now ready to fetch data from Cognos reports and work with them directly 
 
 ---
 
-## Next Steps
+## 🎉 You're Done!
 
-Congratulations! You have completed Lab 2 - Cognos for Microsoft Office Setup:
+You've successfully setup Cognos for Microsoft Office in IBM Cognos Analytics.
 
-| Step | Lab                                                                                                                                     | Description                                                |
-| :--: | :-------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------- |
-|  ✅  | [1. Existing Report Check](../Lab%201%20-%20Existing%20Report%20Check/Lab%201%20-%20%20Existing%20Report%20Check.md)                    | Existing report verification completed                     |
-|  ✅  | **2. Cognos for MS Office Setup**                                                                                                       | You are here - Cognos for Microsoft Office setup completed |
-|  ➡️  | [3. Create Report](../Lab%203%20-%20Create%20Report/Lab%203%20-%20Create%20Report.md)                                                   | Create Data Module and Reports in Cognos                   |
-|  📋  | [4. Update Existing Data Report](../Lab%204%20-%20Update%20Existing%20Data%20Report/Lab%204%20-%20Update%20Existing%20Data%20Report.md) | Fetch and append data to Excel                             |
+> 💡 Next Steps:
+>
+> - #### [Continue to Lab 4 - Create Report](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/6.%20Lab4%20-%20Best%20Practice%20Replacing%20Data%20Source/Lab4.1%20-%20Create%20Report/Lab%203%20-%20Create%20Report.md)
 
 ---
+
+**Author:** IBM Client Engineering Lab Guide  
+**Tool:** IBM Cognos Analytics  
+**Tutorial Type:** Cognos for MS Office Setup
+**Version:** v1.0  
+**Date:** November 2025
 
 ## Documentation Info
 

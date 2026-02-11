@@ -1,4 +1,4 @@
-# Lab 4 - Update Existing Data Report
+# Lab 4.2 - Update Existing Data Report
 
 ## Overview
 
@@ -165,23 +165,18 @@ You have now learned the complete workflow for updating existing data reports in
 
 ---
 
-## Next Steps
+## 🎉 You're Done!
 
-Congratulations! You have completed all labs in Cognos for Microsoft Office:
+You've successfully updated existing data report in IBM Cognos Analytics.
 
-| Step | Lab                                                                                                                                             | Description                                         |
-| :--: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- |
-|  ✅  | [1. Existing Report Check](../Lab%201%20-%20Existing%20Report%20Check/Lab%201%20-%20%20Existing%20Report%20Check.md)                            | Existing report verification completed              |
-|  ✅  | [2. Cognos for MS Office Setup](../Lab%202%20-%20Cognos%20for%20Microsoft%20Office%20Setup/Lab%202%20-%20Cognos%20for%20MS%20Office%20Setup.md) | Cognos for Microsoft Office setup completed         |
-|  ✅  | [3. Create Report](../Lab%203%20-%20Create%20Report/Lab%203%20-%20Create%20Report.md)                                                           | Create Data Module and Reports completed            |
-|  ✅  | **4. Update Existing Data Report**                                                                                                              | You are here - Data update and validation completed |
+> 💡 Next Steps:
+>
+> - #### [Continue to Lab5 - Turn BI Insights into forecast for Effectivity](https://github.com/Client-Engineering-Indonesia/workshop-cognos-excel/blob/main/7.%20Turn%20BI%20Insights%20into%20forcast%20for%20Effectivity/readme.md)
 
 ---
 
-## Documentation Info
-
-**Instructor:** IBM Client Engineering Lab Guide  
-**Platform:** IBM Cognos Analytics on Cloud  
-**Database:** IBM DB2 on Cloud  
-**Tools:** Microsoft Excel, Cognos for Microsoft Office Add-in  
-**Objective:** Update existing data reports by fetching, appending, and replacing data sources in Cognos Analytics
+**Author:** IBM Client Engineering Lab Guide  
+**Tool:** IBM Cognos Analytics  
+**Tutorial Type:** Update Existing Data Report
+**Version:** v1.0  
+**Date:** November 2025
